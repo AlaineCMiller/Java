@@ -1,2 +1,2 @@
 # Java
-Java Leraning Resources
+Java Learning Resources
