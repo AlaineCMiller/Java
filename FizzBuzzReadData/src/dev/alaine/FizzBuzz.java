@@ -2,7 +2,7 @@ package dev.alaine;
 
 import java.util.Scanner;
 
-public class Main {
+public class FizzBuzz {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
